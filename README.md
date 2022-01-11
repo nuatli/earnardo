@@ -1,2 +1,2 @@
-# basicWhatsapp
-Basic Whatsapp App
+# earnardo Task
+Earnardo Task App
